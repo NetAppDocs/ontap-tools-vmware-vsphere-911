@@ -1,6 +1,7 @@
 ---
 settings:
   name: ONTAP tools for VMware vSphere 9.11
+  downlevel: true
   internal:
     pdf_enabled: true
   prod:
