@@ -9,7 +9,7 @@ summary: 'You can perform an in-place upgrade to the latest release of ONTAP too
 :imagesdir: ../media/
 
 [.lead]
-You can perform an in-place upgrade to the latest release of ONTAP tools from your existing 9.7P1 or later release following the instructions provided here.
+You can perform an in-place upgrade to the latest release of ONTAP tools from your existing 9.10 or later release following the instructions provided here.
 
 *What you will need*
 
